@@ -18,7 +18,7 @@ shownotify = true
 [paths]
 
 ; path to sound clips
-sfx = "/Users/pete/Music/sfx/"
+sfx = "/Users/mcollins/WORK/SITES/ghetto-blaster/sfx/"
 
 
 ; user array (if login is required)
