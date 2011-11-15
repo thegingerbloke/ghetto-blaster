@@ -21,7 +21,7 @@ session_start();
 </head>
 <?php
 	
-	require_once("./_includes/php/Growl.php");
+	require_once("../_includes/php/Growl.php");
 	$growl = new Growl('');
 	$messages = $growl->getMessages();
 	$user = $growl->getUserByName($_SESSION['u']);
